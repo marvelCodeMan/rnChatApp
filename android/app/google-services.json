@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552806003982",
+    "project_id": "fir-chat-app-dedef",
+    "storage_bucket": "fir-chat-app-dedef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552806003982:android:f7d5d0ff803af5c487135f",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552806003982-395mmqq3gqrq26vqag9noj6pd5mjsqpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfmISfIiHBoGEtTPFJV2vOfHCXWxDqgbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552806003982-395mmqq3gqrq26vqag9noj6pd5mjsqpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
